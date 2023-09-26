@@ -1,4 +1,4 @@
-# Hello, I'm Kate👩‍💻 
+# Hello!👩‍💻 
 ### Frontend-developer
 Contact me on [Telegram](https://t.me/Kr_Ekaterina)
 
