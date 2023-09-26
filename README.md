@@ -2,7 +2,7 @@
 ### Frontend-developer
 Contact me on [Telegram](https://t.me/Kr_Ekaterina)
 
-[![codewars](https://www.codewars.com/users/rsschool_402e3a6471b75fe0/badges/micro)](https://www.codewars.com/users/rsschool_402e3a6471b75fe0) 
+
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -12,12 +12,12 @@ Contact me on [Telegram](https://t.me/Kr_Ekaterina)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 ### My projects
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkate&layout=compact&theme=date_night)
-<!--
+<!--[![codewars](https://www.codewars.com/users/rsschool_402e3a6471b75fe0/badges/micro)](https://www.codewars.com/users/rsschool_402e3a6471b75fe0) 
 **KrKate/krkate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
