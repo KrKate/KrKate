@@ -13,7 +13,21 @@ Contact me on [Telegram](https://t.me/Kr_Ekaterina)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### ⚡ Courses
+> The Rolling Scopes School
+  - JS/FE Pre-School 2022Q4
+  - Now 2022 - Mar 2023
+  - [Certificate](https://app.rs.school/certificate/18c1qqsz)
 
+> The Rolling Scopes School
+  - JavaScript/Front-end 2023Q1
+  - Mar 2023 - Sep 2023
+  - [Certificate](https://app.rs.school/certificate/dqd2vejm)
+
+> The Rolling Scopes School
+  - React 2023Q4
+  - oct 2023 - jan 2024
+  - [Certificate](https://app.rs.school/certificate/go3mho62)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkate&layout=compact&theme=date_night)
 
