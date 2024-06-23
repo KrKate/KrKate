@@ -26,7 +26,7 @@ Contact me on [Telegram](https://t.me/Kr_Ekaterina)
 
 > The Rolling Scopes School
   - React 2023Q4
-  - oct 2023 - jan 2024
+  - Oct 2023 - Jan 2024
   - [Certificate](https://app.rs.school/certificate/go3mho62)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkate&layout=compact&theme=date_night)
