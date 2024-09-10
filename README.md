@@ -14,7 +14,7 @@ Contact me on [Telegram](https://t.me/Kr_Ekaterina)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23564BFF.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=%EAEAEA)
-![Vitest](https://img.shields.io/badge/Vitest-%23F46363.svg?&style=for-the-badge&logo=vitest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-#506e10.svg?&style=for-the-badge&logo=vitest&logoColor=white)
 
 ### ⚡ Courses
 > The Rolling Scopes School
