@@ -12,9 +12,9 @@ Contact me on [Telegram](https://t.me/Kr_Ekaterina)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/next%20-%2320232a.svg?&style=for-the-badge&logo=next&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/vitest%20-%2320232a.svg?&style=for-the-badge&logo=vitest&logoColor=#729b1b)
+![Redux](https://img.shields.io/badge/Redux-%23564BFF.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=%EAEAEA)
+![Vitest](https://img.shields.io/badge/Vitest-%23F46363.svg?&style=for-the-badge&logo=vitest&logoColor=white)
 
 ### ⚡ Courses
 > The Rolling Scopes School
